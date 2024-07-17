@@ -1,10 +1,10 @@
 # NAME: Europe
 # Author: LittleZCR
 # UPDATED: 2024-7-17
-DOMIAN-SUFFIX,free.fr
-DOMIAN-SUFFIX,sosh.fr
-DOMIAN-SUFFIX,sfr.fr
-DOMIAN-SUFFIX,orange.fr
-DOMIAN-SUFFIX,caf.fr
-DOMIAN-SUFFIX,red-by-sfr.fr
-DOMIAN-KEYWORD,bnpparibas
+DOMAIN-SUFFIX,free.fr
+DOMAIN-SUFFIX,sosh.fr
+DOMAIN-SUFFIX,sfr.fr
+DOMAIN-SUFFIX,orange.fr
+DOMAIN-SUFFIX,caf.fr
+DOMAIN-SUFFIX,red-by-sfr.fr
+DOMAIN-KEYWORD,bnpparibas
