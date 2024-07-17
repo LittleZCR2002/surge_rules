@@ -1,8 +1,9 @@
 # NAME: Europe
 # Author: LittleZCR
 # UPDATED: 2024-7-17
+GEOIP,FR
 DOMAIN,prd-bnpp-mob.trusted-authentication.worldline-solutions.com
-DOMAIN-SUFFIX,free.fr
+#DOMAIN-SUFFIX,free.fr
 DOMAIN-SUFFIX,sosh.fr
 DOMAIN-SUFFIX,sfr.fr
 DOMAIN-SUFFIX,orange.fr
