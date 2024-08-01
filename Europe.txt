@@ -8,7 +8,5 @@ DOMAIN-SUFFIX,sfr.fr
 DOMAIN-SUFFIX,orange.fr
 DOMAIN-SUFFIX,caf.fr
 DOMAIN-SUFFIX,red-by-sfr.fr
-DOMAIN-SUFFIX,audencia.com
-DOMAIN-SUFFIX,lemonlearning.com
 DOMAIN-KEYWORD,bnpparibas
 DOMAIN-KEYWORD,bouygues
